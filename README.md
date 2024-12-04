@@ -110,7 +110,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 #### **Contact**
 For questions or collaborations, please contact:  
-[Your Name] - *yeon17@unist.ac.kr*  
+[Yeonsu Kim] - *yeon17@unist.ac.kr*  
 [GitHub Profile](https://github.com/Yeoonsu)  
 
 --- 
