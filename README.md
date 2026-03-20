@@ -1,4 +1,4 @@
-# Dissertation Repository Description (Master)
+# Master Dissertation Repository Description
 
 **Thesis Title:** Optimized Data Preparation for Predictive Process Monitoring Using Large Language Models (LLMs)  
 **Advisor:** Prof. Marco Comuzzi  
