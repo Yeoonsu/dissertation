@@ -6,7 +6,7 @@ Writer: Yeonsu Kim
 Date: 2024-12  
 ---
 
-#### **Overview**
+## **Overview**
 This repository contains the full implementation, data, and results supporting the dissertation:  
 **"Optimized Data Preparation Pipelines for Predictive Process Monitoring Using LLMs."**
 
@@ -14,7 +14,7 @@ Predictive Process Monitoring (PPM) relies heavily on high-quality event logs fo
 
 ---
 
-#### **Key Features**
+## **Key Features**
 - **LLM-Based Data Imputation:** Python scripts for restoring missing values and handling semantic variability in event logs using LLMs like GPT or LLaMA.
 - **Synonym and Homonym Transformation Tools:** Utilities for generating transformed datasets to simulate real-world challenges.
 - **PPM Model Evaluation:** End-to-end pipeline to train and evaluate PPM models using both classic and LLM-enhanced datasets. (The PPM model implementation is based on [Imperfection-Pattern](https://github.com/brucks1217/Imperfection-pattern))
@@ -22,7 +22,7 @@ Predictive Process Monitoring (PPM) relies heavily on high-quality event logs fo
 
 ---
 
-#### **Repository Structure**
+## **Repository Structure**
 ```plaintext
 📂 datasets
 📂 models/
@@ -31,14 +31,14 @@ Predictive Process Monitoring (PPM) relies heavily on high-quality event logs fo
 
 ```
 
-#### **Highlights**
+## **Highlights**
 - **Reproducibility:** All experiments are fully documented and reproducible.
 - **Data Diversity:** Includes two datasets (Credit and Pub) with varied linguistic challenges.
 - **Open Access:** Researchers can adapt the pipeline for domain-specific PPM tasks.
 
 ---
 
-#### **Citation**
+## **Citation**
 If you use this repository, please cite:
 
 ```bibtex
@@ -53,12 +53,12 @@ If you use this repository, please cite:
 
 ---
 
-#### **License**
+## **License**
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-#### **Contact**
+## **Contact**
 For questions or collaborations, please contact: 
 [GitHub Profile](https://github.com/Yeoonsu)  
 
