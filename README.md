@@ -1,7 +1,7 @@
 # Master Dissertation Repository Description
-
-**Advisor:** Prof. Marco Comuzzi  
+ 
 **Writer:** Yeonsu Kim  
+**Advisor:** Prof. Marco Comuzzi 
 **Date:** 2024-12 
 
 ## **Overview**
