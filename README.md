@@ -22,7 +22,7 @@ Predictive Process Monitoring (PPM) relies heavily on high-quality event logs fo
 📂 datasets
 📂 models/
     ├── llm           # Scripts and checkpoints for fine-tuning LLMs
-📂 ppm                # revised and forked from https://github.com/brucks1217/Imperfection-pattern
+📂 ppm               # revised and forked from https://github.com/brucks1217/Imperfection-pattern
 
 ```
 
