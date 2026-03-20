@@ -1,7 +1,9 @@
-### Dissertation Repository Description
+### Dissertation Repository Description (Master)
 
 **Repository Name:** *Optimized Data Preparation for Predictive Process Monitoring Using Large Language Models (LLMs)*
-
+**Advisor:** Prof. Marco Comuzzi
+**Writer:** Yeonsu Kim
+**Date:** 2023-12-17
 ---
 
 #### **Overview**
@@ -40,10 +42,10 @@ Predictive Process Monitoring (PPM) relies heavily on high-quality event logs fo
 If you use this repository, please cite:
 
 ```bibtex
-@phdthesis{yeonsu2024thesis,
+@phdthesis{yeonsu2025thesis,
   title     = {Optimized Data Preparation Pipelines for Predictive Process Monitoring Using LLMs},
   author    = {Yeonsu Kim},
-  year      = {2024},
+  year      = {2025},
   school    = {Ulsan National Institute of Science and Technology},
   url       = {https://github.com/Yeoonsu/dissertation}
 }
