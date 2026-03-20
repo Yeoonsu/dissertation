@@ -1,6 +1,6 @@
 ### Dissertation Repository Description (Master)
 ---
-### **Thesis Title:** *Optimized Data Preparation for Predictive Process Monitoring Using Large Language Models (LLMs)* ###  
+#### **Thesis Title:** *Optimized Data Preparation for Predictive Process Monitoring Using Large Language Models (LLMs)* ####  
 #### **Advisor:** Prof. Marco Comuzzi ####  
 #### **Writer:** Yeonsu Kim ####  
 #### **Date:** 2024-12 ####  
