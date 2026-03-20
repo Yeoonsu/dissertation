@@ -57,8 +57,7 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 #### **Contact**
-For questions or collaborations, please contact:  
-[Yeonsu Kim] - *yeon17@unist.ac.kr*  
+For questions or collaborations, please contact: 
 [GitHub Profile](https://github.com/Yeoonsu)  
 
 --- 
