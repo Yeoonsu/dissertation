@@ -3,8 +3,7 @@
 Thesis Title: Optimized Data Preparation for Predictive Process Monitoring Using Large Language Models (LLMs)
 Advisor: Prof. Marco Comuzzi  
 Writer: Yeonsu Kim  
-Date: 2024-12  
----
+Date: 2024-12 
 
 ## **Overview**
 This repository contains the full implementation, data, and results supporting the dissertation:  
@@ -12,15 +11,11 @@ This repository contains the full implementation, data, and results supporting t
 
 Predictive Process Monitoring (PPM) relies heavily on high-quality event logs for accurate predictions and insights. This research explores the potential of Large Language Models (LLMs) to address challenges in data preparation, including missing values, synonym transformations, and homonym ambiguity. The repository demonstrates how LLM-based imputation enhances data quality, resulting in improved PPM performance.
 
----
-
 ## **Key Features**
 - **LLM-Based Data Imputation:** Python scripts for restoring missing values and handling semantic variability in event logs using LLMs like GPT or LLaMA.
 - **Synonym and Homonym Transformation Tools:** Utilities for generating transformed datasets to simulate real-world challenges.
 - **PPM Model Evaluation:** End-to-end pipeline to train and evaluate PPM models using both classic and LLM-enhanced datasets. (The PPM model implementation is based on [Imperfection-Pattern](https://github.com/brucks1217/Imperfection-pattern))
 - **Performance Metrics and Analysis:** Detailed metrics (accuracy, F1-score) and visualizations comparing LLM-based and traditional methods.
-
----
 
 ## **Repository Structure**
 ```plaintext
@@ -36,8 +31,6 @@ Predictive Process Monitoring (PPM) relies heavily on high-quality event logs fo
 - **Data Diversity:** Includes two datasets (Credit and Pub) with varied linguistic challenges.
 - **Open Access:** Researchers can adapt the pipeline for domain-specific PPM tasks.
 
----
-
 ## **Citation**
 If you use this repository, please cite:
 
@@ -51,12 +44,8 @@ If you use this repository, please cite:
 }
 ```
 
----
-
 ## **License**
 This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## **Contact**
 For questions or collaborations, please contact: 
